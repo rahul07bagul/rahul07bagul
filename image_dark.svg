@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1100px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1100px" height="800px" font-size="16px" viewBox="0 0 1100 770">
     <style>
     .keyColor {fill: #ffa657;}
     .valueColor {fill: #a5d6ff;}
@@ -9,53 +9,45 @@
     text, tspan {white-space: pre;}
     </style>
 
-    <rect width="1100px" height="530px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii">
-    <tspan x="15" y="30">                      ++++                      </tspan>
-    <tspan x="15" y="50">                 +###########+                  </tspan>
-    <tspan x="15" y="70">               +###############+                </tspan>
-    <tspan x="15" y="90">               ########+-----+##                </tspan>
-    <tspan x="15" y="110">             ####+----.......-###              </tspan>
-    <tspan x="15" y="130">             ###++----........+##              </tspan>
-    <tspan x="15" y="150">             ###++----.........-##+            </tspan>
-    <tspan x="15" y="170">             ##++######+-+##+++--#             </tspan>
-    <tspan x="15" y="190">             +#++###++#+.-++++-..+              </tspan>
-    <tspan x="15" y="210">             +#++-----+-.........+.             </tspan>
-    <tspan x="15" y="230">             ++++--.-+--...-.....-.             </tspan>
-    <tspan x="15" y="250">              ++++--####+-----.--..            </tspan>
-    <tspan x="15" y="270">                ##++##+-----+---+               </tspan>
-    <tspan x="15" y="290">               +##+++++++-.----+               </tspan>
-    <tspan x="15" y="310">            #########+-------+++##              </tspan>
-    <tspan x="15" y="330">           +###+############+-.+##              </tspan>
-    <tspan x="15" y="350">         ##+#+++########++-----++#++            </tspan>
-    <tspan x="15" y="370">      #####+--+-+#++++++------####+++++         </tspan>
-    <tspan x="15" y="390">   #########-----++---------+#####++#++#++      </tspan>
-    <tspan x="15" y="410">##############-....--------+##+#######+++#+++    </tspan>
-    <tspan x="15" y="430">##############+............--++#######++####+++</tspan>
-    <tspan x="15" y="450">###############+............--######+#++##+###+</tspan>
-    <tspan x="15" y="470">################+...........--######+##+#++####</tspan>
+    <rect width="1100px" height="800px" fill="#161b22" rx="15"/>
 
-    </text>
-      <text x="450" y="30" fill="#c9d1d9">
-        <tspan x="450" y="30">Rahul Bagul</tspan>
-        <tspan x="450" y="50">——————</tspan>
-        <tspan x="450" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Unix, Linux, Windows, Android</tspan>
-        <tspan x="450" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">25 years</tspan>
-        <tspan x="450" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Purdue University</tspan><tspan class="commentColor"></tspan>
-        <tspan x="450" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan><tspan class="commentColor"></tspan>
-        <tspan x="450" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, Android Studio, IntellJ IDEA</tspan>
-        <tspan x="450" y="190" class="keyColor">Computer</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C++, Java, Python, JavaScript, C#</tspan>
-        <tspan x="450" y="210" class="keyColor">Computer</tspan>.<tspan class="keyColor">Frameworks</tspan>: <tspan class="valueColor">Express, React, Spring boot</tspan>
-        <tspan x="450" y="230" class="keyColor">Computer</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">MySQL, PostgreSQL, MongoDB</tspan>
-        <tspan x="450" y="250" class="keyColor">Computer</tspan>.<tspan class="keyColor">Skills</tspan>: <tspan class="valueColor">Docker, Git, REST API, AWS, Unity</tspan>
-        <tspan x="450" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi</tspan>
-        <tspan x="450" y="310" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Development, Cloud Computing, System Design</tspan>
-        <tspan x="450" y="330" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Life</tspan>: <tspan class="valueColor">Photography, Video Editing, Travelling</tspan>
-        <tspan x="450" y="370" class="keyColor">Contact</tspan>:
-        <tspan x="450" y="390">——————</tspan>
-        <tspan x="450" y="410" class="keyColor">Email</tspan>: <tspan class="valueColor">rahul07bagul@gmail.com</tspan>
-        <tspan x="450" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">rahul07bagul</tspan>
-        <tspan x="450" y="450" class="keyColor">Instagram</tspan>: <tspan class="valueColor">rahul07bagul</tspan>
-        <tspan x="450" y="470" class="keyColor">Youtube</tspan>: <tspan class="valueColor">rahul07bagul</tspan>
+    <text x="50" y="30" fill="#c9d1d9">
+        <tspan x="50" y="30">Rahul Bagul</tspan>
+        <tspan x="50" y="50">——————</tspan>
+        <tspan x="50" y="70" class="keyColor">About Me</tspan>:
+        <tspan x="50" y="90" class="valueColor">Software Engineer pursuing MS in Computer Science at Purdue University with</tspan>
+        <tspan x="50" y="110" class="valueColor">2.5 years of experience. Problem solver who enjoys creative challenges.</tspan>
+        <tspan x="50" y="130" class="valueColor">Passionate about photography and video editing alongside coding.</tspan>
+        <tspan x="50" y="150" class="valueColor">Quick learner eager to explore emerging technologies in AI and cloud computing.</tspan>
+        <tspan x="50" y="190" class="keyColor">Location</tspan>: <tspan class="valueColor">New Jersey, USA</tspan>
+        <tspan x="50" y="210" class="keyColor">Education</tspan>: <tspan class="valueColor">MS Computer Science, Purdue University</tspan>
+        <tspan x="50" y="230" class="keyColor">Experience</tspan>: <tspan class="valueColor">Software Engineer | Data and AI Intern</tspan>
+        <tspan x="50" y="250" class="keyColor">Company</tspan>: <tspan class="valueColor">Snowflake</tspan>
+        <tspan x="50" y="290" class="keyColor">Tech</tspan>.<tspan class="keyColor">Languages</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript, Go, SQL</tspan>
+        <tspan x="50" y="310" class="keyColor">Tech</tspan>.<tspan class="keyColor">Frontend</tspan>: <tspan class="valueColor">React, HTML/CSS, Node.js</tspan>
+        <tspan x="50" y="330" class="keyColor">Tech</tspan>.<tspan class="keyColor">Backend</tspan>: <tspan class="valueColor">Spring Boot, Express, Django, Flask</tspan>
+        <tspan x="50" y="350" class="keyColor">Tech</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">MySQL, PostgreSQL, MongoDB, Redis, Snowflake</tspan>
+        <tspan x="50" y="370" class="keyColor">Tech</tspan>.<tspan class="keyColor">Cloud</tspan>: <tspan class="valueColor">AWS, GCP, Docker, Kubernetes</tspan>
+        <tspan x="50" y="390" class="keyColor">Tech</tspan>.<tspan class="keyColor">Other</tspan>: <tspan class="valueColor">Salesforce, Kafka, Git, gRPC, REST APIs</tspan>
+        <tspan x="50" y="430" class="keyColor">Skills</tspan>.<tspan class="keyColor">Design</tspan>: <tspan class="valueColor">Object-Oriented Design, Design Patterns</tspan>
+        <tspan x="50" y="450" class="keyColor">Skills</tspan>.<tspan class="keyColor">Architecture</tspan>: <tspan class="valueColor">Microservices, ETL Pipelines</tspan>
+        <tspan x="50" y="470" class="keyColor">Skills</tspan>.<tspan class="keyColor">AI</tspan>: <tspan class="valueColor">Machine Learning, Neural Networks, LLM, RAG</tspan>
+        
+        <tspan x="50" y="510" class="keyColor">Projects</tspan>:
+        <tspan x="50" y="530">——————</tspan>
+        <tspan x="50" y="550" class="keyColor">Project</tspan>                 <tspan x="300" y="550" class="keyColor">Tech Stack</tspan> 
+        <tspan x="50" y="570">Design Load Balancer</tspan>          <tspan x="300" y="570" class="valueColor">C++, gRPC, Multi-threading</tspan> 
+        <tspan x="50" y="590">Travelopedia</tspan>           <tspan x="300" y="590" class="valueColor">React, Spring Boot, Docker</tspan> 
+        <tspan x="50" y="610">Mastodon TutorAI</tspan>       <tspan x="300" y="610" class="valueColor">Python, MongoDB, ChromaDB, RAG, OpenAI</tspan>  
+        <tspan x="50" y="630">Design a File Storage</tspan>       <tspan x="300" y="630" class="valueColor">Spring Boot, AWS-S3, MySQL</tspan>  
+        <tspan x="50" y="650">Design Rate Limiter</tspan>       <tspan x="300" y="650" class="valueColor">Spring Boot, Redis, MySQL</tspan>  
+        <tspan x="50" y="670">Voiceover Generation</tspan>       <tspan x="300" y="670" class="valueColor">Python, HuggingFace, Kokoro Voice Model</tspan>  
+
+        <!-- <tspan x="50" y="710" class="keyColor">Contact</tspan>:
+        <tspan x="50" y="730">——————</tspan>
+        <tspan x="50" y="750" class="keyColor">Email</tspan>: <tspan class="valueColor">rahul07bagul@gmail.com</tspan>
+        <tspan x="50" y="770" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/rahul07bagul/</tspan>
+        <tspan x="50" y="790" class="keyColor">GitHub</tspan>: <tspan class="valueColor">rahul07bagul.github.io</tspan>
+        <tspan x="50" y="810" class="keyColor">Phone</tspan>: <tspan class="valueColor">908-935-8586</tspan> -->
     </text>
 </svg>
