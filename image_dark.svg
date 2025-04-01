@@ -12,7 +12,7 @@
     <rect width="1100px" height="800px" fill="#161b22" rx="15"/>
 
     <text x="50" y="30" fill="#c9d1d9">
-        <tspan x="50" y="30">Rahul Bagul</tspan>
+        <tspan x="50" y="30" class="keyColor">Rahul Bagul</tspan>
         <tspan x="50" y="50">——————</tspan>
         <tspan x="50" y="70" class="keyColor">About Me</tspan>:
         <tspan x="50" y="90" class="valueColor">Software Engineer pursuing MS in Computer Science at Purdue University with</tspan>
@@ -36,12 +36,12 @@
         <tspan x="50" y="510" class="keyColor">Projects</tspan>:
         <tspan x="50" y="530">——————</tspan>
         <tspan x="50" y="550" class="keyColor">Project</tspan>                 <tspan x="300" y="550" class="keyColor">Tech Stack</tspan> 
-        <tspan x="50" y="570">Design Load Balancer</tspan>          <tspan x="300" y="570" class="valueColor">C++, gRPC, Multi-threading</tspan> 
-        <tspan x="50" y="590">Travelopedia</tspan>           <tspan x="300" y="590" class="valueColor">React, Spring Boot, Docker</tspan> 
-        <tspan x="50" y="610">Mastodon TutorAI</tspan>       <tspan x="300" y="610" class="valueColor">Python, MongoDB, ChromaDB, RAG, OpenAI</tspan>  
-        <tspan x="50" y="630">Design a File Storage</tspan>       <tspan x="300" y="630" class="valueColor">Spring Boot, AWS-S3, MySQL</tspan>  
-        <tspan x="50" y="650">Design Rate Limiter</tspan>       <tspan x="300" y="650" class="valueColor">Spring Boot, Redis, MySQL</tspan>  
-        <tspan x="50" y="670">Voiceover Generation</tspan>       <tspan x="300" y="670" class="valueColor">Python, HuggingFace, Kokoro Voice Model</tspan>  
+        <tspan x="50" y="570" class="keyColor">Design Load Balancer</tspan>          <tspan x="300" y="570" class="valueColor">C++, gRPC, Multi-threading</tspan> 
+        <tspan x="50" y="590" class="keyColor">Travelopedia</tspan>           <tspan x="300" y="590" class="valueColor">React, Spring Boot, Docker</tspan> 
+        <tspan x="50" y="610" class="keyColor">Mastodon TutorAI</tspan>       <tspan x="300" y="610" class="valueColor">Python, MongoDB, ChromaDB, RAG, OpenAI</tspan>  
+        <tspan x="50" y="630" class="keyColor">Design a File Storage</tspan>       <tspan x="300" y="630" class="valueColor">Spring Boot, AWS-S3, MySQL</tspan>  
+        <tspan x="50" y="650" class="keyColor">Design Rate Limiter</tspan>       <tspan x="300" y="650" class="valueColor">Spring Boot, Redis, MySQL</tspan>  
+        <tspan x="50" y="670" class="keyColor">Voiceover Generation</tspan>       <tspan x="300" y="670" class="valueColor">Python, HuggingFace, Kokoro Voice Model</tspan>  
 
         <!-- <tspan x="50" y="710" class="keyColor">Contact</tspan>:
         <tspan x="50" y="730">——————</tspan>
